@@ -111,3 +111,11 @@ C:\Users\jdurn_000\source\repos\WebApplication2\obj\Debug\WebApplication2.csproj
 C:\Users\jdurn_000\source\repos\WebApplication2\obj\Debug\WebApplication2.Migrations.rename.resources
 C:\Users\jdurn_000\source\repos\WebApplication2\obj\Debug\WebApplication2.Migrations.rename2.resources
 C:\Users\jdurn_000\source\repos\WebApplication2\obj\Debug\WebApplication2.Migrations.test.resources
+C:\Users\jdurn_000\source\repos\WebApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\jdurn_000\source\repos\WebApplication2\bin\System.Web.Http.dll
+C:\Users\jdurn_000\source\repos\WebApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\jdurn_000\source\repos\WebApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\jdurn_000\source\repos\WebApplication2\bin\System.Web.Http.xml
+C:\Users\jdurn_000\source\repos\WebApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\jdurn_000\source\repos\WebApplication2\bin\AutoMapper.dll
+C:\Users\jdurn_000\source\repos\WebApplication2\bin\AutoMapper.xml
